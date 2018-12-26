@@ -1,18 +1,18 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno'
+title: Turgay AFSAR
+description: 'Jr. iOS app Developer'
+url: 'http://afsarturgay.github.io'
+baseurl: '/home'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Turgay AFSAR'
+  email: afsarturgay@gmail.com
+  twitter_username: afsarturgay
+  facebook_username: afsarturgay
+  github_username:  afsarturgay
+  linkedin_username:  afsarturgay
 
 defaults:
   -
