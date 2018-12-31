@@ -1,8 +1,8 @@
 ---
-title:  "Deneme Post2"
-date:   2016-01-08 15:04:23
-categories: [jekyll]
-tags: [jekyll]
+title:  "Perfect information Game on Minimax Algorithm for Artificial Intelligence"
+date:   30.12.2018 22:00
+categories: [Artificial Intelligence]
+tags: [Game]
 ---
 ![Alt Text](/images/game2.gif)
 
