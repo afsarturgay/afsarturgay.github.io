@@ -1,10 +1,6 @@
 ---
-title:  "Game for Artificial Intelligence"
+title:  "Soon"
 date:   30.12.2018 22:00
-categories: [Artificial Intelligence]
-tags: [Game]
+categories: [Blog Post]
+tags: [Post 1]
 ---
-<img src="/images/game2.gif" alt="drawing" width="300"/>
-
-
-
